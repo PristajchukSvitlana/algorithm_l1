@@ -1,7 +1,7 @@
 
 function getNumber(array, number) {
     for (let index = 0; index < array.length; index++) {
-        if(array[index] === number) {
+        if (array[index] === number) {
             return true;
         }
     }
@@ -11,7 +11,7 @@ function getNumber(array, number) {
 let arr = [22, 5, 1, 3, 2, 50];
 console.log(arr);
 
-let k = 50;
+let k = 66;
 
 let result = getNumber(arr, k);
 
