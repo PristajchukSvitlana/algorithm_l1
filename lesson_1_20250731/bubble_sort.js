@@ -50,4 +50,5 @@ function sumThreeNumbers(a, b, c) {
     return a + b + c;
 }           
 // Пример вызова функции:
-console.log(sumThreeNumbers(5, 10, 15)); // Вывод: 30       
+console.log(sumThreeNumbers(9, 111, 156)); // Вывод: 276
+// Пример вызова функции с другими числами:
